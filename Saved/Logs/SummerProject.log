@@ -1468,3 +1468,15 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.08-21.01.18:865][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 11.5 sec)
 [2023.07.08-21.01.18:885][556]AssetCheck: New page: Asset Save: Test
 [2023.07.08-21.01.18:885][556]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Test.Test
+[2023.07.08-21.01.37:882][795]LogSlate: Window 'Test' being destroyed
+[2023.07.08-21.01.37:893][795]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-21.01.37:893][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-21.01.42:341][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-21.01.42:431][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.07.08-21.01.42:454][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.07.08-21.01.42:475][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.07.08-21.01.42:477][969]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GithubTestMap/7/1G/I4IZCYH4HKNF6D7MEGTYSB
+[2023.07.08-21.01.42:478][969]LogSavePackage: Moving 'C:/Users/Bear/Documents/GitHub/SummerProject/Saved/I4IZCYH4HKNF6D7MEGTYSBA08CDD4148C61CD9138F97958AF92327.tmp' to 'C:/Users/Bear/Documents/GitHub/SummerProject/Content/__ExternalActors__/GithubTestMap/7/1G/I4IZCYH4HKNF6D7MEGTYSB.uasset'
+[2023.07.08-21.01.42:482][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 11.6 sec)
+[2023.07.08-21.01.42:487][969]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_58A023BDB9B9C89301_1175142591
+[2023.07.08-21.01.42:487][969]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/GithubTestMap.GithubTestMap:PersistentLevel.StaticMeshActor_UAID_58A023BDB9B9C89301_1175142591
