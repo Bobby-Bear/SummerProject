@@ -1381,19 +1381,3 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.08-20.47.33:299][272]LogBlueprintEditor: Perf: 0.5 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
 [2023.07.08-20.47.33:299][272]LogBlueprintEditor: Perf: 0.3 seconds loading: /Engine/EditorBlueprintResources/StandardMacros
 [2023.07.08-20.47.34:422][272]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
-[2023.07.08-20.47.53:954][272]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [19309ms] waiting for h/w. InstanceID=1
-[2023.07.08-20.47.53:955][272]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049959s
-[2023.07.08-20.47.56:812][272]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.001718s (2.903023s overbudget)
-[2023.07.08-20.47.56:956][272]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25424
-[2023.07.08-20.47.57:232][272]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{71d79dd4-9ce6-459f-87b7-804dddfaaca1}, Name=Speakers (Realtek High Definition Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=15.56
-[2023.07.08-20.47.57:255][272]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
-[2023.07.08-20.47.57:257][272]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
-[2023.07.08-20.47.57:536][272]LogViewport: Scene viewport resized to 1002x594, mode Windowed.
-[2023.07.08-20.48.00:921][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
-[2023.07.08-20.48.00:922][282]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GithubTestMap' took 0.110
-[2023.07.08-20.48.00:934][282]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Test] ([2] browsable assets)...
-[2023.07.08-20.48.00:934][282]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Test]
-[2023.07.08-20.48.00:934][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Test" FILE="C:/Users/Bear/Documents/GitHub/SummerProject/Saved/Autosaves/Game/Blueprints/Test_Auto1.uasset" SILENT=false AUTOSAVING=true
-[2023.07.08-20.48.00:983][282]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Test_Auto1
-[2023.07.08-20.48.00:983][282]LogSavePackage: Moving 'C:/Users/Bear/Documents/GitHub/SummerProject/Saved/Test_Auto133F337994A1B75E5D77B76AE1C15FB36.tmp' to 'C:/Users/Bear/Documents/GitHub/SummerProject/Saved/Autosaves/Game/Blueprints/Test_Auto1.uasset'
-[2023.07.08-20.48.00:984][282]LogFileHelpers: Auto-saving content packages took 0.053
