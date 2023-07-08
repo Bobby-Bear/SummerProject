@@ -1480,3 +1480,12 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.08-21.01.42:482][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 11.6 sec)
 [2023.07.08-21.01.42:487][969]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_58A023BDB9B9C89301_1175142591
 [2023.07.08-21.01.42:487][969]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/GithubTestMap.GithubTestMap:PersistentLevel.StaticMeshActor_UAID_58A023BDB9B9C89301_1175142591
+[2023.07.08-21.05.21:791][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-21.05.21:865][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.07.08-21.05.21:887][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.07.08-21.05.21:908][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.07.08-21.05.21:910][268]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GithubTestMap/7/1G/I4IZCYH4HKNF6D7MEGTYSB
+[2023.07.08-21.05.21:911][268]LogSavePackage: Moving 'C:/Users/Bear/Documents/GitHub/SummerProject/Saved/I4IZCYH4HKNF6D7MEGTYSB495B481E4FCC1200E66DE994CC9AA6DB.tmp' to 'C:/Users/Bear/Documents/GitHub/SummerProject/Content/__ExternalActors__/GithubTestMap/7/1G/I4IZCYH4HKNF6D7MEGTYSB.uasset'
+[2023.07.08-21.05.21:917][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 11.8 sec)
+[2023.07.08-21.05.21:923][268]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_58A023BDB9B9C89301_1175142591
+[2023.07.08-21.05.21:923][268]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/GithubTestMap.GithubTestMap:PersistentLevel.StaticMeshActor_UAID_58A023BDB9B9C89301_1175142591
