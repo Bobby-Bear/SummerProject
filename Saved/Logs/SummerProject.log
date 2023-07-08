@@ -1140,3 +1140,202 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.08-20.37.28:611][351]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 174 ms)
 [2023.07.08-20.37.28:614][351]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_58A023BDB9B9C79301_1345689415
 [2023.07.08-20.37.28:614][351]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/GithubTestMap.GithubTestMap:PersistentLevel.StaticMeshActor_UAID_58A023BDB9B9C79301_1345689415
+[2023.07.08-20.39.10:380][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-20.39.10:436][ 36]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GithubTestMap/4/V5/L8PWCATIU3VY81LFGERNZ7
+[2023.07.08-20.39.10:436][ 36]LogSavePackage: Moving 'C:/Users/Bear/Documents/GitHub/SummerProject/Saved/L8PWCATIU3VY81LFGERNZ76FC8EC6A4B82966AD2EF85AAE020F654.tmp' to 'C:/Users/Bear/Documents/GitHub/SummerProject/Content/__ExternalActors__/GithubTestMap/4/V5/L8PWCATIU3VY81LFGERNZ7.uasset'
+[2023.07.08-20.39.10:442][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 237 ms)
+[2023.07.08-20.39.10:446][ 36]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_58A023BDB9B9C79301_1345689415
+[2023.07.08-20.39.10:446][ 36]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/GithubTestMap.GithubTestMap:PersistentLevel.StaticMeshActor_UAID_58A023BDB9B9C79301_1345689415
+[2023.07.08-20.39.37:697][317]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-20.39.37:752][317]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GithubTestMap/4/V5/L8PWCATIU3VY81LFGERNZ7
+[2023.07.08-20.39.37:752][317]LogSavePackage: Moving 'C:/Users/Bear/Documents/GitHub/SummerProject/Saved/L8PWCATIU3VY81LFGERNZ7804E97014C2EF7B2F303928D4F1B5A75.tmp' to 'C:/Users/Bear/Documents/GitHub/SummerProject/Content/__ExternalActors__/GithubTestMap/4/V5/L8PWCATIU3VY81LFGERNZ7.uasset'
+[2023.07.08-20.39.37:758][317]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 298 ms)
+[2023.07.08-20.39.37:762][317]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_58A023BDB9B9C79301_1345689415
+[2023.07.08-20.39.37:762][317]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/GithubTestMap.GithubTestMap:PersistentLevel.StaticMeshActor_UAID_58A023BDB9B9C79301_1345689415
+[2023.07.08-20.39.51:915][741]Cmd: DELETE
+[2023.07.08-20.39.51:915][741]Cmd: ACTOR DELETE
+[2023.07.08-20.39.52:716][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.07.08-20.39.52:820][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.07.08-20.39.52:821][741]LogEditorActor: Deleted 1 Actors (0.190 secs)
+[2023.07.08-20.39.52:936][741]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-20.39.53:285][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.07.08-20.39.53:292][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.07.08-20.39.53:299][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.07.08-20.39.53:481][741]SourceControl: Error: Updated 1 path from the index
+[2023.07.08-20.39.53:620][741]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/4/V5/L8PWCATIU3VY81LFGERNZ7.uasset'
+[2023.07.08-20.39.53:627][741]LogFileHelpers: InternalPromptForCheckoutAndSave took 691 ms (total: 989 ms)
+[2023.07.08-20.40.15:064][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-20.40.15:124][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.07.08-20.40.15:131][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.07.08-20.40.15:138][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.07.08-20.40.15:145][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1.07 sec)
+[2023.07.08-20.40.19:642][358]Cmd: DELETE
+[2023.07.08-20.40.19:642][358]Cmd: ACTOR DELETE
+[2023.07.08-20.40.19:645][358]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.40.19:821][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.07.08-20.40.19:822][358]LogEditorActor: Deleted 1 Actors (0.180 secs)
+[2023.07.08-20.40.25:826][826]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.40.27:661][995]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.40.28:058][ 34]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.40.28:344][ 55]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.40.28:626][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.40.29:491][170]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.40.31:246][350]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.40.34:614][682]Cmd: DELETE
+[2023.07.08-20.40.34:614][682]Cmd: ACTOR DELETE
+[2023.07.08-20.40.34:614][682]LogEditorActor: Cannot delete actor Landscape /Game/GithubTestMap.GithubTestMap:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703: Landscape can't be deleted because it still has 63 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2023.07.08-20.40.34:624][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.07.08-20.40.34:625][682]LogEditorActor: Deleted 0 Actors (0.011 secs)
+[2023.07.08-20.40.48:182][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.40.50:902][339]Cmd: DELETE
+[2023.07.08-20.40.50:902][339]Cmd: ACTOR DELETE
+[2023.07.08-20.40.50:903][339]LogEditorActor: Cannot delete actor Landscape /Game/GithubTestMap.GithubTestMap:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703: Landscape can't be deleted because it still has 63 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2023.07.08-20.40.50:913][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.07.08-20.40.50:914][339]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2023.07.08-20.41.02:953][493]Cmd: DELETE
+[2023.07.08-20.41.02:953][493]Cmd: ACTOR DELETE
+[2023.07.08-20.41.02:953][493]LogEditorActor: Cannot delete actor WorldDataLayers /Game/GithubTestMap.GithubTestMap:PersistentLevel.WorldDataLayers: Actor is not user managed
+[2023.07.08-20.41.02:953][493]LogEditorActor: Cannot delete actor WorldPartitionMiniMap /Game/GithubTestMap.GithubTestMap:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927: Actor is not user managed
+[2023.07.08-20.41.02:956][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.02:978][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.02:997][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:016][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:035][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:053][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:069][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:086][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:101][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:117][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:133][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:147][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:162][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:176][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:189][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:203][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:217][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:230][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:242][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:255][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:267][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:279][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:290][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:301][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:311][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:321][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:331][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:341][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:350][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:359][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:368][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:377][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:384][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:392][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:400][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:407][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:414][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:420][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:427][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:433][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:439][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:445][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:450][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:456][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:461][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:466][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:471][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:476][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:481][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:485][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:489][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:494][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:498][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:502][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:506][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:509][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:513][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:516][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:520][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:523][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:526][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:529][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:533][493]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.07.08-20.41.03:542][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.07.08-20.41.03:548][493]LogEditorActor: Deleted 63 Actors (0.594 secs)
+[2023.07.08-20.41.03:703][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.08-20.41.09:048][ 46]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.07.08-20.41.55:042][958]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-20.41.57:938][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.07.08-20.41.57:946][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.07.08-20.41.57:953][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.07.08-20.42.00:787][958]SourceControl: Error: Updated 0 paths from the index
+[2023.07.08-20.42.00:787][958]SourceControl: Error: Updated 0 paths from the index
+[2023.07.08-20.42.00:787][958]SourceControl: Unstaged changes after reset:
+[2023.07.08-20.42.00:787][958]SourceControl: M	Saved/Logs/SummerProject.log
+[2023.07.08-20.42.00:787][958]SourceControl: Unstaged changes after reset:
+[2023.07.08-20.42.00:787][958]SourceControl: M	Saved/Logs/SummerProject.log
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/0/31/YXED6RB9SLOUW4HXXY1TDL.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/0/IT/ZH75DCLQ2ZYQ6ZAD7MRNW2.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/0/J8/8TBE173WDMDHN65K3PWEAH.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/0/O5/6GIJPQJPSNAZFGEAH0067Q.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/1/3Y/CVXPUS60M63F16BQS88B0B.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/1/AO/RT85OUU3QX7T3O761PGHBS.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/1/DT/3DTXPXX5QGBTJ15AOU3M9T.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/2/E7/IJYSQIP6CC539M4ZWGTI6M.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/2/MU/ZM24PLMKKL3E1TXRVO45KL.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/2/QF/F6ZNA88D3Y44DP5XZHYRT8.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/2/WR/IFP9QVDIQ5P70IOXPMOYDY.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/3/5D/ZCHETWPPZXQL3ZQ0OZQ2GN.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/3/C3/87L0DVA7JK6CVSB3QL3WG7.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/3/Z9/WMBND8W5YB3KUDAOI6HD8M.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/4/46/FXXNYZO2WJ1GMX9WOG2A3C.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/4/AA/ORR1RGM5UL4V3U7IR84P3D.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/4/KT/7QP7WJWQ3KAZZRBQIE4CA7.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/4/Q2/UDW802RU6LWZPGBO4AMMDD.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/5/2U/LWR9FOO58KHJ95VJAUALSJ.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/5/AR/TJW0DOS958CJARSPMGR2WJ.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/5/GL/YLF6EO4ALYA2KY06V202MA.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/6/I4/FWEV69C97QPCJZ50Y1O9SR.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/7/3L/SKPXX8SSBUUC2GOLXCPIYB.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/7/8J/UGA5G4TFGD2RYNOAR6K8BP.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/7/E9/ASX8VWUKYXU48UTTQCJO4P.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/7/K6/OCPA64R2AFPSUJ0FU2KYYR.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/7/N4/6DWOFWYL6VAQXWP4NK8NY3.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/7/PZ/FC0JN1Y3CO3D26H1NGK0HF.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/7/WH/K0K9Y6XDZ7TYWESVA1G9MD.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/9/II/13TX15XZ5QSFGI7TYHYQ21.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/9/LC/XPZTD0O59FNW27VXS3UZ6K.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/9/VM/9S2V3E5Q7W7U5NPVY9THOM.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/A/ES/J2Q460OLUE9F06KEVAGT4T.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/A/HG/A0BPLS8Y8EFIVHPTV23HRU.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/A/HK/DJ48GTK0M4GWFP6X9V1LXI.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/A/JQ/XZJCUAPEP1NO40AGGNSFOP.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/B/5Q/MHQJXEL5GZZSV3ET9I26QZ.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/B/DV/JL79PGG1DFQF4CKM1YP9SF.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/B/RW/5ASZFOOXNM2GWWSEKHVZJI.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/C/7E/U6OZZ8T315F4F6PJ695NPC.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/C/JF/R9JJZBU2CJ7P02ZIHXFFOK.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/C/SR/GOBQBZC9VFLKVTYYCDF6XQ.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/D/4D/VSNFTPM0432HQLNHZ8PPGC.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/D/CO/9PCB4QXCH03PIIMRJ8R9TG.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/D/D5/V46XY1DTXGFKJVRGM32QJ2.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/D/II/R3BFOGDNLGXKVK900IQEKJ.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/D/KL/N34YUU3LQMC9KE6FSPKEEI.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/D/OZ/V1SZDSKJ2S8330RNMI49KW.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/E/37/9FZLZDGWWH2H4L3AGEVRIH.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/E/XJ/7QG59YQ9XMIY637JJVDVCH.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/1/GB/9EXU8V19OWRGHFK4JFEGY0.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/2/0C/6956AAUD7TFM9XKIBGUTZ7.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/3/AN/2EN04PQB0E9IFLXK0XEJXF.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/3/F4/JFYD1O3ZTNO16B44IAV1RC.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/4/I5/I692CO7SS89YFS1MXXMU7M.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/5/7Y/Q2AFUI0IT4ELISPJ7P9JFB.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/5/98/ADV1QJ1MUCDXJVGPPTKFQI.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/5/KO/2R1SLPPIKX67UY3AY5YZU0.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/6/HY/UTD7TCX6IDJVV8SY9RNMBD.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/7/9K/OAVAQ443LV1HFO8PCD6E99.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/7/FS/1DBAPRI2F5094CARCD5IVE.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/A/6U/8LZKDMJWE37HC0WHN53L12.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/A/YS/3BYYF5RCBGL88IPI57SW7S.uasset'
+[2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/E/5H/OXI65DJCZUGKPOA8T3R2CX.uasset'
+[2023.07.08-20.42.04:142][958]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.09 sec (total: 10.1 sec)
+[2023.07.08-20.43.53:351][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
