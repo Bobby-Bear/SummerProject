@@ -1339,3 +1339,16 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.08-20.42.03:818][958]SourceControl: rm 'Content/__ExternalActors__/GithubTestMap/E/5H/OXI65DJCZUGKPOA8T3R2CX.uasset'
 [2023.07.08-20.42.04:142][958]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.09 sec (total: 10.1 sec)
 [2023.07.08-20.43.53:351][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.07.08-20.44.06:263][165]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.07.08-20.44.06:263][165]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.07.08-20.44.06:265][165]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/GithubTestMap.GithubTestMap:PersistentLevel.StaticMeshActor_UAID_58A023BDB9B9C89301_1175142591
+[2023.07.08-20.44.06:266][165]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/GithubTestMap.GithubTestMap:PersistentLevel.StaticMeshActor_UAID_58A023BDB9B9C89301_1175142591
+[2023.07.08-20.44.10:838][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-20.44.10:922][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.07.08-20.44.10:930][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.07.08-20.44.10:936][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.07.08-20.44.10:938][344]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/GithubTestMap/7/1G/I4IZCYH4HKNF6D7MEGTYSB
+[2023.07.08-20.44.10:938][344]LogSavePackage: Moving 'C:/Users/Bear/Documents/GitHub/SummerProject/Saved/I4IZCYH4HKNF6D7MEGTYSB3987D614471EFB66E3A743A47687F05B.tmp' to 'C:/Users/Bear/Documents/GitHub/SummerProject/Content/__ExternalActors__/GithubTestMap/7/1G/I4IZCYH4HKNF6D7MEGTYSB.uasset'
+[2023.07.08-20.44.11:085][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 247 ms (total: 10.4 sec)
+[2023.07.08-20.44.11:089][344]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_58A023BDB9B9C89301_1175142591
+[2023.07.08-20.44.11:089][344]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/GithubTestMap.GithubTestMap:PersistentLevel.StaticMeshActor_UAID_58A023BDB9B9C89301_1175142591
