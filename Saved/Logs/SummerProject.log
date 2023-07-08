@@ -1450,3 +1450,10 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.08-20.59.02:389][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 11.3 sec)
 [2023.07.08-20.59.02:395][520]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_58A023BDB9B9C89301_1175142591
 [2023.07.08-20.59.02:395][520]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/GithubTestMap.GithubTestMap:PersistentLevel.StaticMeshActor_UAID_58A023BDB9B9C89301_1175142591
+[2023.07.08-21.00.41:749][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-21.00.41:808][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Test" FILE="C:/Users/Bear/Documents/GitHub/SummerProject/Content/Blueprints/Test.uasset" SILENT=true
+[2023.07.08-21.00.41:811][144]LogSavePackage: Moving output files for package: /Game/Blueprints/Test
+[2023.07.08-21.00.41:812][144]LogSavePackage: Moving 'C:/Users/Bear/Documents/GitHub/SummerProject/Saved/Test4D08B78D458EC9104953C58B45177ADA.tmp' to 'C:/Users/Bear/Documents/GitHub/SummerProject/Content/Blueprints/Test.uasset'
+[2023.07.08-21.00.41:819][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 11.4 sec)
+[2023.07.08-21.00.41:825][144]AssetCheck: New page: Asset Save: Test
+[2023.07.08-21.00.41:825][144]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Test.Test
