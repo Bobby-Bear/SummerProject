@@ -1397,3 +1397,22 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.08-20.48.00:983][282]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Test_Auto1
 [2023.07.08-20.48.00:983][282]LogSavePackage: Moving 'C:/Users/Bear/Documents/GitHub/SummerProject/Saved/Test_Auto133F337994A1B75E5D77B76AE1C15FB36.tmp' to 'C:/Users/Bear/Documents/GitHub/SummerProject/Saved/Autosaves/Game/Blueprints/Test_Auto1.uasset'
 [2023.07.08-20.48.00:984][282]LogFileHelpers: Auto-saving content packages took 0.053
+[2023.07.08-20.54.32:950][687]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.08-20.54.36:033][913]BlueprintLog: New page: Compile Test
+[2023.07.08-20.54.36:263][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.07.08-20.54.36:363][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-20.54.36:463][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Test" FILE="C:/Users/Bear/Documents/GitHub/SummerProject/Content/Blueprints/Test.uasset" SILENT=true
+[2023.07.08-20.54.36:514][913]LogSavePackage: Moving output files for package: /Game/Blueprints/Test
+[2023.07.08-20.54.36:514][913]LogSavePackage: Moving 'C:/Users/Bear/Documents/GitHub/SummerProject/Saved/Test67D13B07451A7CE33E32F98C04E86660.tmp' to 'C:/Users/Bear/Documents/GitHub/SummerProject/Content/Blueprints/Test.uasset'
+[2023.07.08-20.54.36:646][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 281 ms (total: 10.7 sec)
+[2023.07.08-20.54.36:665][913]AssetCheck: New page: Asset Save: Test
+[2023.07.08-20.54.36:665][913]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Test.Test
+[2023.07.08-20.55.15:191][501]BlueprintLog: New page: Compile Test
+[2023.07.08-20.55.15:229][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.07.08-20.55.15:335][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-20.55.15:410][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Test" FILE="C:/Users/Bear/Documents/GitHub/SummerProject/Content/Blueprints/Test.uasset" SILENT=true
+[2023.07.08-20.55.15:413][501]LogSavePackage: Moving output files for package: /Game/Blueprints/Test
+[2023.07.08-20.55.15:413][501]LogSavePackage: Moving 'C:/Users/Bear/Documents/GitHub/SummerProject/Saved/TestB93B92934A39DFE758EC41A3A60FFA8C.tmp' to 'C:/Users/Bear/Documents/GitHub/SummerProject/Content/Blueprints/Test.uasset'
+[2023.07.08-20.55.15:421][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 10.8 sec)
+[2023.07.08-20.55.15:440][501]AssetCheck: New page: Asset Save: Test
+[2023.07.08-20.55.15:441][501]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Test.Test
